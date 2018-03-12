@@ -1,5 +1,5 @@
 ---
-title: "Musketierprinziep"
+title: "Musketierprinzip"
 date: 2018-03-12T21:56:26+01:00
 tags:  ["project","methods","agile"]
 categories: ["ProjectLife"]
@@ -9,7 +9,7 @@ das musketierprinzip
 =====================
 
 das musketierprinzip ist ein prinzip zur bewältigung von kleinen und grossen projekten
-es ist basis der zusammenarbeit in teams. ein schelm wer diesen gedanken auf eine gesellschaft überträgt ;-)
+es ist basis der zusammenarbeit in teams. ein schelm wer diesen gedanken auf andere organisationsformen wie etwa gellschaften oder ameisen oder bienenstaaten überträgt ;-)
 
 -  kein platz für egoisten  und „nicht teamplayer“ 
 -  alle für einen einer für alle.  
