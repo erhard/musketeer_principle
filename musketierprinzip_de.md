@@ -6,10 +6,10 @@ categories: ["ProjectLife"]
 draft: false
 ---
 das musketierprinzip
-=====================
 
 das musketierprinzip ist ein prinzip zur bewältigung von kleinen und grossen projekten
-es ist basis der zusammenarbeit in teams. ein schelm wer diesen gedanken auf andere organisationsformen wie etwa gellschaften oder ameisen oder bienenstaaten überträgt ;-)
+es ist basis der zusammenarbeit in teams. 
+ein schelm wer diesen gedanken auf eine andere organisation, ameisenstaat, bienenvolk oder gar ideale gesellschaft überträgt ;-)
 
 -  kein platz für egoisten  und „nicht teamplayer“ 
 -  alle für einen einer für alle.  
@@ -23,5 +23,3 @@ es ist basis der zusammenarbeit in teams. ein schelm wer diesen gedanken auf and
 -  ziele sind gemeinsame ziele 
 -  jeder kann aber eine „Heimat“ haben. alle helfen diese heimat eines anderen zu bewahren verbessern oder herzustellen
 -  hierzu ist es eine weitere eigenschaft kompromisse eingehen zu können. denn die ziele und heimaten sind oftmals konkurrierend
-
-
