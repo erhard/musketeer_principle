@@ -1,5 +1,5 @@
 ---
-title: "Musketeer priciple"
+title: "Musketeer principle"
 date: 2018-03-12T21:56:26+01:00
 tags:  ["project","methods","agile"]
 categories: ["ProjectLife"]
